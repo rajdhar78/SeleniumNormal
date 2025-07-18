@@ -14,6 +14,7 @@ public class Demo {
 		//Upcast browser specific classes to wewbdriver<<I>> ref variable
 		//To achieve Cross Brower Testing 
 //		WebDriver driver= new ChromeDriver();
+		//launching chrome browser
 		WebDriver driver=new EdgeDriver();
 				
 	}
