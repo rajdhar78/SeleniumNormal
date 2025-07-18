@@ -8,7 +8,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 public class Manage {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+	
+//push to github
 		//launch browser
 		WebDriver driver=new EdgeDriver();
 		
